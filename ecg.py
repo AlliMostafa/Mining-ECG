@@ -12,7 +12,7 @@ def	load_raw_data(df,	sampling_rate, path):
   data = np.array([signal	for	signal,	meta	in	data])
   return data			
 
-path ="C:\\Users\\mostafa\\Desktop\\"
+path ="Path to the PTB-XL"
 sampling_rate=100
 #	load and convert annotation data
 Y = pd.read_csv(path+'ptbxl_database.csv', index_col='ecg_id') 
