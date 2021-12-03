@@ -20,6 +20,10 @@ Origginal authors:
 Wagner, P., Strodthoff, N., Bousseljot, R.-D., Kreiseler, D., Lunze, F.I., Samek, W., Schaeffter, T. (2020), PTB-XL: A Large Publicly Available ECG Dataset. Scientific Data. https://doi.org/10.1038/s41597-020-0495-6
 
 
-# Analysing heartbeat signaals usinng heartpy
+# 2. Analysing heartbeat signals usinng heartpy
 
+Heartpy is a python toolkitvto analyze heartbeats. Using Anaconda can be simply installed  by :
 
+pip install heartpy
+
+a full manual can be found at [here](https://python-heart-rate-analysis-toolkit.readthedocs.io/en/latest/heartpy.heartpy.html#main-functions)
