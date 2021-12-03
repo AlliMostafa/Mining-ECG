@@ -1,6 +1,6 @@
 # Mining  Ecg database
 
-# 1.PTB-XL dataset
+# 1. PTB-XL dataset
 Electrocardiography (ECG) is a key diagnostic tool to assess the cardiac condition of a patient. Automatic ECG interpretation algorithms as diagnosis support systems promise large reliefs for the medical personnel - only on the basis of the number of ECGs that are routinely taken. However, the development of such algorithms requires large training datasets and clear benchmark procedures. In our opinion, both aspects are not covered satisfactorily by existing freely accessible ECG datasets.
 
 The PTB-XL ECG dataset is a large dataset of 21837 clinical 12-lead ECGs from 18885 patients of 10 second length. The raw waveform data was annotated by up to two cardiologists, who assigned potentially multiple ECG statements to each record. The in total 71 different ECG statements conform to the SCP-ECG standard and cover diagnostic, form, and rhythm statements. To ensure comparability of machine learning algorithms trained on the dataset, we provide recommended splits into training and test sets. In combination with the extensive annotation, this turns the dataset into a rich resource for the training and the evaluation of automatic ECG interpretation algorithms. The dataset is complemented by extensive metadata on demographics, infarction characteristics, likelihoods for diagnostic ECG statements as well as annotated signal properties.
@@ -20,10 +20,12 @@ Origginal authors:
 Wagner, P., Strodthoff, N., Bousseljot, R.-D., Kreiseler, D., Lunze, F.I., Samek, W., Schaeffter, T. (2020), PTB-XL: A Large Publicly Available ECG Dataset. Scientific Data. https://doi.org/10.1038/s41597-020-0495-6
 
 
-# 2. Analysing heartbeat signals usinng heartpy
+# 2. Analysing heartbeat signals using heartpy
 
-Heartpy is a python toolkitvto analyze heartbeats. Using Anaconda can be simply installed  by :
+Heartpy is a python toolkit to analyze heartbeats. Using Anaconda can be simply installed  by :
 
 pip install heartpy
 
 a full manual can be found at [here](https://python-heart-rate-analysis-toolkit.readthedocs.io/en/latest/heartpy.heartpy.html#main-functions)
+
+# 3. 
