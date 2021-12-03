@@ -22,10 +22,7 @@ Wagner, P., Strodthoff, N., Bousseljot, R.-D., Kreiseler, D., Lunze, F.I., Samek
 
 # 2. Analysing heartbeat signals by heartpy
 
-Heartpy is a python toolkit to analyze heartbeats. Using Anaconda can be simply installed  by :
-
-pip install heartpy
- SALOMON TETELEPTA 
+Heartpy is a python toolkit to analyze heartbeats. Using Anaconda can be simply installed  by : pip install heartpy.
 a full manual can be found at [here](https://python-heart-rate-analysis-toolkit.readthedocs.io/en/latest/heartpy.heartpy.html#main-functions)
 
 # 3. Heart Rate Variability
