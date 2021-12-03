@@ -15,5 +15,11 @@ All relevant metadata is stored in ptbxl_database.csv with one row per record id
 
 Data set can be accessed from [kaggle](https://www.kaggle.com/khyeh0719/ptb-xl-dataset/version/1) or [physionet](https://physionet.org/static/published-projects/ptb-xl/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1.zip).
 
+Origginal authors:
 
-# Second way(
+Wagner, P., Strodthoff, N., Bousseljot, R.-D., Kreiseler, D., Lunze, F.I., Samek, W., Schaeffter, T. (2020), PTB-XL: A Large Publicly Available ECG Dataset. Scientific Data. https://doi.org/10.1038/s41597-020-0495-6
+
+
+# Analysing heartbeat signaals usinng heartpy
+
+
